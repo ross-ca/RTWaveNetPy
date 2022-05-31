@@ -1,0 +1,9 @@
+fromPlugin.json
+jsonChecker.ipynb
+modelJSON.json
+newModelJSON.json
+test.ipynb
+RTNeural/
+PedalNetRT/
+modelExporterRTNeural/
+modelExporterTraditonal/
