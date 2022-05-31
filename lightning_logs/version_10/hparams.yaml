@@ -1,0 +1,17 @@
+batch_size: 64
+dilation_depth: 10
+hparams:
+  batch_size: 64
+  dilation_depth: 10
+  in_file: data\y_input_data.wav
+  kernel_size: 3
+  learning_rate: 0.003
+  num_channels: 12
+  num_repeat: 1
+  out_file: data\x_input_data.wav
+in_file: data\y_input_data.wav
+kernel_size: 3
+learning_rate: 0.003
+num_channels: 12
+num_repeat: 1
+out_file: data\x_input_data.wav
